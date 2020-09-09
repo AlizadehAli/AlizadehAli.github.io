@@ -7,7 +7,7 @@
 # The following code template is taken from "academicpages/academicpages.github.io"
 
 # Site Settings
-theme                    : jekyll-theme-minimal
+# theme                    : jekyll-theme-minimal
 locale                   : "en-US"
 title                    : "Ali Alizadeh / AI/AD researcher"
 title_separator          : "-"
